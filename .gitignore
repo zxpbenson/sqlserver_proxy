@@ -1,0 +1,13 @@
+.idea
+build
+.DS_Store
+*.iml
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.log
+*.tmp
+*.bak
+*.swp
